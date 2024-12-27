@@ -1,2 +1,1 @@
-ouroboros 
-
+sic parvis magna
