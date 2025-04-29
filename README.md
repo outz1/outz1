@@ -1,5 +1,5 @@
-## Olá, sou o **Eduardo** 🐢
-- Estudante de programação com foco em FullStack
+## Hi, I'm **Eduardo** 🐢
+- Student with a focus on FullStack
 
 ![outz1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=outz1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
