@@ -1,5 +1,6 @@
 ## Hi, I'm **Eduardo** 🐢
-- Fullstack Dev
+yo, im dev
+
 
 ![outz1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=outz1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
