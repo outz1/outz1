@@ -19,4 +19,4 @@ yo, im dev
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duebrits-dev/)
   
 ## 🎓​ Currículo
- [Ver Currículo](https://drive.google.com/file/d/1N8rp_JI7Jdx44TlGrbaXO9bbDCTyZ5DE/view?usp=sharing)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-red)](https://drive.google.com/file/d/1N8rp_JI7Jdx44TlGrbaXO9bbDCTyZ5DE/view?usp=sharing)
