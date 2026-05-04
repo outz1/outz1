@@ -19,3 +19,9 @@ yo, im dev
 
 ## 🎓 Currículo
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-red)](https://drive.google.com/file/d/1N8rp_JI7Jdx44TlGrbaXO9bbDCTyZ5DE/view?usp=sharing)
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
