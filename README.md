@@ -3,8 +3,8 @@
 </div>
 
 ###
-## Hi, I'm **Eduardo** 🐢
-yo, im dev
+##  Hi, I'm **Eduardo** 🐢
+### > fullstack dev and cybersec enthusiast
 
 ![outz1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=outz1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
@@ -22,6 +22,9 @@ yo, im dev
 ## 🪪 Linkedin
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duebrits-dev/)
 
-## 🎓 Currículo
-[![Currículo](https://img.shields.io/badge/Currículo-PDF-red)](https://drive.google.com/file/d/10TS-AGd9wPlzTSYnsJ-PQqbj_O49sbbZ/view?usp=sharing)
 
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=outz1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outz1&layout=compact&theme=dark"/>
+</div>
