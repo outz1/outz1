@@ -4,8 +4,15 @@
 
 ###
 ##  Hi, I'm **Eduardo** 🐢
-### > fullstack dev and cybersec enthusiast
 
+```text
+┌──(outz㉿github)-[~]
+└─$ cat me.txt
+
+
+> fullstack dev and cybersec enthusiast 🐢
+
+```
 ![outz1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=outz1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <table><tr>
